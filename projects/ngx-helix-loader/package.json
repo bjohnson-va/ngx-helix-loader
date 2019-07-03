@@ -1,8 +1,17 @@
 {
-  "name": "ngx-helix-loader",
-  "version": "0.0.1",
+  "name": "@bjohnson/ngx-helix-loader",
+  "version": "1.0.0",
+  "author": "Brad Johnson",
+  "description": "An Angular 2+ Component Implementation of Drew Endly's Helix Loading Animation",
   "peerDependencies": {
-    "@angular/common": "^7.2.0",
-    "@angular/core": "^7.2.0"
-  }
+    "@angular/common": ">=2.0.0",
+    "@angular/core": ">=2.0.0"
+  },
+  "keywords": [
+    "loading", "indicator", "helix", "spinner", "dna", "progress",
+    "indeterminate", "wait", "load"
+  ],
+  "homepage": "https://github.com/bjohnson-va/ngx-helix-loader",
+  "bugs": "https://github.com/bjohnson-va/ngx-helix-loader/issues",
+  "license": "MIT"
 }
