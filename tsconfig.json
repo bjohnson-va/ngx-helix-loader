@@ -17,6 +17,14 @@
     "lib": [
       "es2018",
       "dom"
-    ]
+    ],
+    "paths": {
+      "ngx-helix-loader": [
+        "dist/ngx-helix-loader"
+      ],
+      "ngx-helix-loader/*": [
+        "dist/ngx-helix-loader/*"
+      ]
+    }
   }
 }
