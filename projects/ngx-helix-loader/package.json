@@ -1,7 +1,8 @@
 {
-  "name": "@bjohnson/ngx-helix-loader",
+  "name": "@bjohnson-va/ngx-helix-loader",
   "version": "1.0.0",
   "author": "Brad Johnson",
+  "private": false,
   "description": "An Angular 2+ Component Implementation of Drew Endly's Helix Loading Animation",
   "peerDependencies": {
     "@angular/common": ">=2.0.0",
